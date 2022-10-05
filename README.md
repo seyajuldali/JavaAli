@@ -1,2 +1,0 @@
-# JavaAli
-my java code
